@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: Sword Fighters Simulator
 image: https://i.imgur.com/iohnDeV.png
 publishedAt: "2/11/23"
-category: 'Freelance'
+category: 'Script'
 ---
 
 ## Main

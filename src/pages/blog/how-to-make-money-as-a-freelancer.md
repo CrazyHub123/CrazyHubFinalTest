@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/Post.astro'
-title: How to Make Money as a Freelancer
-image: /images/freelance
-publishedAt: "2021-01-01"
+title: Sword Fighters Simulator
+image: https://i.imgur.com/iohnDeV.png
+publishedAt: "2/11/23"
 category: 'Freelance'
 ---
 

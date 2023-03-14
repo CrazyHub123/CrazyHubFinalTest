@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <style>
 		path {
@@ -11,3 +12,6 @@
 	</style>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 </svg>
+=======
+<link rel="shortcut icon" type="x-icon" href="favicon.ico">
+>>>>>>> 0de49427f1ac707ad80c02fcd2036d9e2bba8a22

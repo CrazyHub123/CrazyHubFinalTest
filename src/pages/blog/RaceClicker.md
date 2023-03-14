@@ -1,33 +1,54 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Tapping Simulator
-image: https://i.imgur.com/JcyzgaM.png
-publishedAt: "3/4/2023"
+title: Race Clicker
+image: https://i.imgur.com/owjj0n1.png
+publishedAt: "3/13/23"
 category: 'Script'
 ---
 
 ## Main
 ```
-- Auto Clicker
+Main Section:
+- Auto Click
+- Auto Win
 - Auto Rebirth
 ```
 
-## Hatch
+## Eggs
 ```
-- AutoHatch x1
-- AutoHatch x3
-- AutoHatch x4
+Eggs Section:
+- Choose Egg
+` Auto Hatch
+```
+
+## Teleport
+```
+Teleport Section:
+- Home
+- Space
+- Event
+- Ocean
+- Hell
+- Candy
+- Castle
+- Pirate
+- Robot
+- Circus
+- Forest
 ```
 
 ## Misc
 ```
-- Auto Rebirth Upgrade
-- Auto Jump Upgrade
-- Auto Gems Upgrade
-- Auto Storage Upgrade
+Misc Section:
+- TopSpeed
+- Rebirths
+- Wins
+- Highscore
 ```
 
-## Player
+## Credits
 ```
-- WalkSpeed
+- Creator Of Script : JustHey#9772
+- Ui Library : ArrayField
+- Creator Of Ui Library : Metas#7777
 ```

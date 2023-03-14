@@ -1,7 +1,6 @@
 ---
 import { settings } from "../data/settings";
 import Container from "./Container.astro";
-import SocialList from './SocialList.astro';
 import LittleSticksPlug from "./LittleSticksPlug.astro";
 ---
 
@@ -11,7 +10,7 @@ import LittleSticksPlug from "./LittleSticksPlug.astro";
       <ul>
         <li><strong>Company</strong></li>
         <li>About</li>
-        <li>Hey</li>
+        <li>Blog</li>
       </ul>
       <ul>
         <li><strong>Products</strong></li>
@@ -35,7 +34,6 @@ import LittleSticksPlug from "./LittleSticksPlug.astro";
     </div>}
     <div class="footer-bottom__container">
       <p>&copy; {new Date().getFullYear()} {settings.name}</p>
-      <SocialList />
     </div>
   </Container>
 </footer>

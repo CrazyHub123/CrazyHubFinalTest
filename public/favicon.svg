@@ -9,5 +9,10 @@
 			}
 		}
 	</style>
+<<<<<<< HEAD
 <link rel="shorcut icon" type="image/png" href="./favicon.png">
+=======
+<path d="M38 240.748L158.802 16"  stroke-width="18" stroke-linecap="round"/>
+<path d="M218.227 100.748L97.4247 16.0001" stroke-width="18" stroke-linecap="round"/>
+>>>>>>> 1c873d97e7d834843e24815f09117acb83b9a97d
 </svg>

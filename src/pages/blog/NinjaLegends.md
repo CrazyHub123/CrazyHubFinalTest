@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: Ninja Legends
 image: https://i.imgur.com/Ced4IlG.png
-publishedAt: "25/2/23"
+publishedAt: "2/25/23"
 category: 'Script'
 ---
 

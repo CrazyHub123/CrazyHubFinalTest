@@ -1,33 +1,44 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Tapping Simulator
-image: https://i.imgur.com/JcyzgaM.png
-publishedAt: "3/4/2023"
+title: Timber Champions
+image: https://i.imgur.com/gid8RuL.png
+publishedAt: "3/5/23"
 category: 'Script'
 ---
 
 ## Main
 ```
-- Auto Clicker
-- Auto Rebirth
+Main Section:
+- Choose Area
+- Choose Level
+- Auto Chop
+```
+
+```
+Other Things:
+- Auto Collect Orbs
+- Auto Collect Chests
+- Auto Claim Rewards
 ```
 
 ## Hatch
 ```
-- AutoHatch x1
-- AutoHatch x3
-- AutoHatch x4
-```
-
-## Misc
-```
-- Auto Rebirth Upgrade
-- Auto Jump Upgrade
-- Auto Gems Upgrade
-- Auto Storage Upgrade
+- Auto Hatch Egg
+- Auto Hatch Triple Egg
+- Auto Equip Best
+- Auto Equip Best Delay
 ```
 
 ## Player
 ```
-- WalkSpeed
+- Change WalkSpeed
+- Change JumpPower
+- Change Fov
+```
+
+## Credits
+```
+- Creator Of Script : JustHey#9772
+- Ui Library : ArrayField
+- Creator Of Ui Library : Metas#7777
 ```

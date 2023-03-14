@@ -1,51 +1,29 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Sword Fighters Simulator
-image: https://i.imgur.com/iohnDeV.png
-publishedAt: "2/11/23"
+title: Flappy Clicker
+image: https://i.imgur.com/jnoNMr2.png
+publishedAt: "2/25/23"
 category: 'Script'
 ---
 
 ## Main
 ```
-- Auto Attack Mobs
-- Enable Farm On Selected Mob
-- Enable Farm Nearest
-- Select Farming Way
+- Auto Click
+- Auto Rebirth
 ```
 
-## Boosts
+## Hatch
 ```
-- Auto Use Luck Boost
-- Auto Use Power Boost
-- Auto Use Coins Boost
-- Auto Use Damage Boost
-```
-
-## Misc
-```
-- Auto Collect Coins
-- Auto Claim Quest
-- Auto Attack Normal(Wont deal damage to mobs)
-- Hide Name
-- Auto Ascend
+- Auto Hatch Chest x1
+- Auto Hatch Chest x3
+- Auto Hatch Egg x1
+- Auto Hatch Egg x3
 ```
 
-## Egg
+## Player
 ```
-- Select Amount To Hatch
-- Auto Hatch
-```
-
-## Pet
-```
-- Auto Equip Best Pet
-```
-
-## Sword
-```
-- Auto Equip Best Sword
-- Auto Forge
+- Change WalkSpeed
+- Change Fov
 ```
 
 ## Credits

@@ -1,51 +1,22 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Sword Fighters Simulator
-image: https://i.imgur.com/iohnDeV.png
+title: +1 Blocks Every Second
+image: https://i.imgur.com/Xy65hpF.png
 publishedAt: "2/11/23"
 category: 'Script'
 ---
 
 ## Main
 ```
-- Auto Attack Mobs
-- Enable Farm On Selected Mob
-- Enable Farm Nearest
-- Select Farming Way
-```
-
-## Boosts
-```
-- Auto Use Luck Boost
-- Auto Use Power Boost
-- Auto Use Coins Boost
-- Auto Use Damage Boost
-```
-
-## Misc
-```
-- Auto Collect Coins
-- Auto Claim Quest
-- Auto Attack Normal(Wont deal damage to mobs)
-- Hide Name
-- Auto Ascend
-```
-
-## Egg
-```
-- Select Amount To Hatch
-- Auto Hatch
-```
-
-## Pet
-```
+- Auto Click Block
+- Auto Rebirth
 - Auto Equip Best Pet
 ```
 
-## Sword
+## Eggs
 ```
-- Auto Equip Best Sword
-- Auto Forge
+- Auto Hatch Single
+- Auto Hatch Triple(gamepass)
 ```
 
 ## Credits

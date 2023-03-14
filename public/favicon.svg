@@ -1,13 +1,2 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<style>
-		path {
-			stroke: black;
-		}
-		@media ( prefers-color-scheme: dark ) {
-			path {
-				stroke: white;
-			}
-		}
-	</style>
-<link rel="icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/950385666452258850/1085317616949792848/favicon.ico">
-</svg>
+
+<link rel="shortcut icon" type="image/x-icon" href="public/favicon.ico">

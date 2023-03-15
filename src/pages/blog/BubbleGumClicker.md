@@ -11,12 +11,19 @@ category: 'Script'
 - Auto Click
 - Input Amount When To Sell
 - Auto Sell
+- Auto Claim Rewards
 - Auto Collect Rewards
 ```
 
 ## Hatch
 ```
+Hatch Section:
+- Choose Egg
 - Auto Hatch
+Afk Position:
+- Enable AFK POS
+- Enter POS
+- Copy Current Position
 ```
 
 ## Teleport
@@ -25,16 +32,25 @@ category: 'Script'
 - Teleport To Selected Island
 ```
 
-## Auto
+## Misc
 ```
 - Buy All Types Of Boosts
 its too long so i didnt list it
 here
 ```
 
+## Webhook
+```
+- Insert Webhook
+- Send Webhook
+- Webhook Delay
+```
+
 ## Player
 ```
-- walkspeed
+- Change WalkSpeed
+- Change Fov
+- Change JumpPower
 ```
 
 ## Credits

@@ -7,6 +7,7 @@ const posts = (await Astro.glob('./blog/*.{md,mdx}')).sort(
 	(a, b) => new Date(b.frontmatter.publishedAt).valueOf() - new Date(a.frontmatter.publishedAt).valueOf()
 );
 
+
 const seo = {
   title: 'CrazyHub | Scripts',
   description: 'Features For CrazyHub',

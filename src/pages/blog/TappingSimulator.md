@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: Tapping Simulator
 image: https://i.imgur.com/JcyzgaM.png
-publishedAt: "3/4/2023"
+publishedAt: "3/4/23"
 category: 'Script'
 ---
 

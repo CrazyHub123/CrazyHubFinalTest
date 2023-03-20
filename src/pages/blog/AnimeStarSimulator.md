@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: Anime Star Simulator
 image: https://i.imgur.com/YShfR4a.png
-publishedAt: "3/16/23"
+publishedAt: "3/20/23"
 category: 'Script'
 ---
 ## Main

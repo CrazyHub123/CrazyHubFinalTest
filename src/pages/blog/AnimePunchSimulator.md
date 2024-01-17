@@ -6,19 +6,17 @@ publishedAt: "1/17/24"
 category: 'Script'
 ---
 
-## Main
+## Farm
 ```
-Main Section:
-- Choose Area
-- Choose Level
-- Auto Chop
-```
+Farm Settings:
+- Farming World
+- Farming Mob
+- Farming Method
 
-```
-Other Things:
-- Auto Collect Orbs
-- Auto Collect Chests
-- Auto Claim Rewards
+Auto Farm:
+- Enable Farm
+- Enable Collect
+- Auto Attack
 ```
 
 ## Hatch

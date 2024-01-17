@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Timber Champions
-image: https://i.imgur.com/gid8RuL.png
-publishedAt: "3/5/23"
+title: Anime Punch Simulator
+image: https://i.imgur.com/b5Bp5n7.png
+publishedAt: "17/1/24"
 category: 'Script'
 ---
 

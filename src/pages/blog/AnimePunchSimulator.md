@@ -2,7 +2,7 @@
 layout: '../../layouts/Post.astro'
 title: Anime Punch Simulator
 image: https://i.imgur.com/b5Bp5n7.png
-publishedAt: "17/1/24"
+publishedAt: "1/17/24"
 category: 'Script'
 ---
 

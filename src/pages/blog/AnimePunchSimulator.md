@@ -6,6 +6,11 @@ publishedAt: "1/17/24"
 category: 'Script'
 ---
 
+### Script
+```lua
+loadstring(game:HttpGet("https://e-z.tools/p/raw/z80naqs8zl"))()
+```
+
 ## Farm
 ```
 Farm Settings:

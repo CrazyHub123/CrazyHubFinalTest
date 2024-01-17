@@ -19,24 +19,109 @@ Auto Farm:
 - Auto Attack
 ```
 
-## Hatch
+## Raid Boss
 ```
-- Auto Hatch Egg
-- Auto Hatch Triple Egg
+Auto Raid Boss:
+- Raid Boss World
+- Enable Raid Boss Farm
+```
+
+## Raid
+```
+Auto Raid:
+- Enable Raid
+- Enable Start
+- Enable Leave
+- Leave Room
+```
+
+## Protect Crystal
+```
+Auto Crystal:
+- Enable Crystal
+- Enable Start
+- Enable Leave
+- Leave Wave
+```
+
+## Invasion Ship
+```
+Auto Invasion Ship:
+- Enable Invasion
+- Enable Start
+- Enable Leave
+- Leave Room
+```
+
+## Defense
+```
+Auto Defence:
+- Enable Defense
+- Enable Start
+- Enable Leave
+- Leave Wave
+```
+
+## Star
+```
+Auto Hatch:
+- Select Egg
+- Enable Star
+- Remove Animation
+
+Pets:
 - Auto Equip Best
 - Auto Equip Best Delay
 ```
 
-## Player
+## Misc
 ```
-- Change WalkSpeed
-- Change JumpPower
-- Change Fov
+Auto Curse:
+- Select Curse
+- Enable Auto Curse
+
+Auto Mark:
+- Select Mark
+- Enable Auto Mark
+
+Auto Passive:
+- Select Passive
+- Enable Auto Passive
+
+Auto Grimorie:
+- Select Grimorie
+- Enable Auto Grimorie
+
+Misc:
+- Enable Auto Rank Up
+- Enable Auto Aura
+- Enable Auto Critical
+
+Player:
+- Custom Name
+
+Buyables:
+- Adjust Buy Delay
+- Enable Auto Purchase Sword
+- Enable Auto Purchase Fruit
+- Enable Auto Purchase Potion
+```
+
+## UI
+```
+Open UI:
+- Open All UI'S In The Game
+```
+
+## Teleport
+```
+Teleports:
+- Select World
+- Telport To Selected
 ```
 
 ## Credits
 ```
-- Creator Of Script : JustHey#9772
-- Ui Library : ArrayField
-- Creator Of Ui Library : Metas#7777
+- Developer : JustHey
+- HubName : NexusHub
 ```

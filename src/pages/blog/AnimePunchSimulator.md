@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://e-z.tools/p/raw/z80naqs8zl"))()
 Farm Settings:
 - Farming World
 - Farming Mob
-- Farming Method
+- Farming Method (WalkTo, Teleport)
 
 Auto Farm:
 - Enable Farm

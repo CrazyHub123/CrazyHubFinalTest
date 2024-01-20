@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://e-z.tools/p/raw/z80naqs8zl"))()
 Farm Settings:
 - Farming World
 - Farming Mob
-- Farming Method (WalkTo, Teleport)
+- Farming Method
 
 Auto Farm:
 - Enable Farm
@@ -28,7 +28,17 @@ Auto Farm:
 ```
 Auto Raid Boss:
 - Raid Boss World
-- Enable Raid Boss Farm
+- Enable Raid Boss Farm (could be combined with auto farm and dungeon)
+```
+
+## Dungeons
+```
+Auto Dungeon:
+- Enable Dungeon
+- Dungeon Mode Selection (Easy, Hard, Medium) can select all three
+- Enable Start
+- Enable Leave
+- Leave At Time: Example: 25:00
 ```
 
 ## Raid
